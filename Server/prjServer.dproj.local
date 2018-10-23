@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/05 19:36:38.000.962,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/14 22:19:02.000.140,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/14 22:19:02.000.968,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/05/14 22:19:06.000.868,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/05/14 22:19:26.000.060,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/09 16:46:05.000.395,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/09 16:46:09.000.007,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/10/22 23:10:53.782,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/22 23:10:57.017,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/10/22 23:11:46.862,C:\Users\Lucas\Projetos\Delphi\ESTUDO\Aplicações Multicamadas\Callback\Server\ufrmMain.pas=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/22 23:11:46.862,C:\Users\Lucas\Projetos\Delphi\ESTUDO\Aplicações Multicamadas\Callback\Server\ufrmMain.dfm=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/22 23:11:52.057,C:\Users\Lucas\Projetos\Delphi\ESTUDO\Aplicações Multicamadas\Callback\Server\uSC.dfm=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2018/10/22 23:11:52.057,C:\Users\Lucas\Projetos\Delphi\ESTUDO\Aplicações Multicamadas\Callback\Server\uSC.pas=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/10/22 23:12:03.027,C:\Users\Lucas\Projetos\Delphi\ESTUDO\Aplicações Multicamadas\Callback\Server\prjServer.dproj=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
