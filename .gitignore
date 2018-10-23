@@ -101,6 +101,7 @@
 *.sdk
 *.tmx
 *.orig
+*.local
 
 # Logs dos sistemas
 *.log
